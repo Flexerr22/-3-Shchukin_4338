@@ -9,7 +9,7 @@
 
     <Grid>
 
-        <Button Content="Нажми на меня" Height="100" Width="300" Background="Pink" MouseEnter="Mouseenter1" Name="myButton"/>
+        
         <Button Content="просто кнопка" Height="100" Width="300" Background="Pink"  Name="myButton2"/>
 
     </Grid>
