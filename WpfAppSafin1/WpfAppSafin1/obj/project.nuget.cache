@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePEkUjEkYpJXRpdb7EJ7wDZYIYt2nWZmSBwijP+rS21qDNrAMOjRIGSpCTpp/8/iZjMNoYmsOaIDdHeh05npRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timas\\Desktop\\laba1\\Safin-4338\\WpfAppSafin1\\WpfAppSafin1\\WpfAppSafin1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\timas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\timas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\timas\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\timas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\timas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

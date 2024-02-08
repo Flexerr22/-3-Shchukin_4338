@@ -1,0 +1,66 @@
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.csproj.AssemblyReference.cache
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1_MarkupCompile.cache
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1_MarkupCompile.lref
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.exe
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.deps.json
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.runtimeconfig.json
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.runtimeconfig.dev.json
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.dll
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\ref\WpfAppSafin1.dll
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.pdb
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.g.resources
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.AssemblyInfoInputs.cache
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.AssemblyInfo.cs
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.csproj.CoreCompileInputs.cache
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.dll
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\ref\WpfAppSafin1.dll
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.pdb
+C:\Users\STUD\Desktop\Новая папка\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.genruntimeconfig.cache
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.exe
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.deps.json
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.runtimeconfig.json
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.runtimeconfig.dev.json
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.dll
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.pdb
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.csproj.AssemblyReference.cache
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1_MarkupCompile.cache
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1_MarkupCompile.lref
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.g.resources
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.AssemblyInfoInputs.cache
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.AssemblyInfo.cs
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.csproj.CoreCompileInputs.cache
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.dll
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\refint\WpfAppSafin1.dll
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.pdb
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.genruntimeconfig.cache
+C:\Users\timas\Desktop\Учеба\RPM\1 лаба\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\ref\WpfAppSafin1.dll
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.exe
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.deps.json
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.runtimeconfig.json
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.runtimeconfig.dev.json
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.dll
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\bin\Debug\net5.0-windows\WpfAppSafin1.pdb
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.csproj.AssemblyReference.cache
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1_MarkupCompile.cache
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1_MarkupCompile.lref
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.g.resources
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.AssemblyInfoInputs.cache
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.AssemblyInfo.cs
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.csproj.CoreCompileInputs.cache
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.dll
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\refint\WpfAppSafin1.dll
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.pdb
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\WpfAppSafin1.genruntimeconfig.cache
+C:\Users\timas\Desktop\laba1\Safin-4338\WpfAppSafin1\WpfAppSafin1\obj\Debug\net5.0-windows\ref\WpfAppSafin1.dll
